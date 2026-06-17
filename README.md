@@ -159,10 +159,13 @@ logs/automation.log
 Sample Log Output:
 
 ```text
-INFO - Login Successful
-INFO - Product Added To Cart
-INFO - Checkout Started
-INFO - Order Completed Successfully
+INFO - Entering zip code
+INFO - Clicking continue
+INFO - Clicking finish
+INFO - Order completed successfully
+INFO - Opening menu
+INFO - Logout successful
+INFO - End To End Test Completed
 ```
 
 ---
@@ -211,4 +214,4 @@ The report includes:
 
 Mrigaya Saini
 
-QA Engineer | Selenium | Python | Pytest | Automation Testing
+QA Automation Engineer | Selenium | Python | Pytest | Automation Testing
