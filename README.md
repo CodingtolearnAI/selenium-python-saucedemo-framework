@@ -114,6 +114,14 @@ SELENIUM-QA-PROJECT
 * Complete Order
 
 ---
+## Logging
+
+<img width="1615" height="989" alt="logs" src="https://github.com/user-attachments/assets/42ac5371-a7c0-4b32-85fd-c05fabbc85ac" />
+
+## HTML Report
+
+<img width="1919" height="671" alt="html-report" src="https://github.com/user-attachments/assets/7ddd2fb5-fbe1-4071-b518-cd05f0a28ed4" />
+
 
 ## How To Run The Project
 
