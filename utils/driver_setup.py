@@ -1,4 +1,4 @@
-from selenium import webdriver
+65from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 
@@ -15,5 +15,11 @@ def get_driver():
     options.add_argument("--disable-notifications")
     options.add_argument("--no-first-run")
     options.add_argument("--no-default-browser-check")
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--window-size=1920,1080")
+
+    
     driver = webdriver.Chrome(options=options)
     return driver
