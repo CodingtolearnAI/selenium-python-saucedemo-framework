@@ -198,6 +198,17 @@ The report includes:
 * Failure Details
 
 ---
+## CI/CD Pipeline
+
+Implemented GitHub Actions to automatically execute Selenium-Pytest test suites on every push to the main branch.
+
+### Workflow
+
+Code Push → GitHub Actions → Install Dependencies → Run Pytest Suite → Publish Results
+
+## GitHub Actions
+
+<img width="406" height="166" alt="Github Actions" src="https://github.com/user-attachments/assets/80144974-4ea5-4a93-b162-724048a86446" />
 
 ## Future Enhancements
 
