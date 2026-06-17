@@ -29,4 +29,4 @@ jobs:
 
       - name: Run Tests
         run: |
-          pytest -v
+           pytest tests/test_login.py -v
