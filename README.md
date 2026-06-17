@@ -75,6 +75,9 @@ SELENIUM-QA-PROJECT
 ```
 
 ---
+## Project Structure
+<img width="484" height="895" alt="project-structure" src="https://github.com/user-attachments/assets/22be0b2a-acad-4486-ada0-df78350cc9f2" />
+
 
 ## Test Scenarios Covered
 
